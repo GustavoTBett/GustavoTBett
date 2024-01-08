@@ -8,6 +8,18 @@
 
 -📫 Me chame pelo email para qualquer contato, gustavotaufembachbtt@gmail.com
 
-![](https://raw.githubusercontent.com/GustavoTBett/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+<div align="center">
 
-![](https://raw.githubusercontent.com/GustavoTBett/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+<!--
+https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
+-->
+<a href="https://github.com/GustavoTBett/stats#gh-dark-mode-only">
+<img src="https://github.com/GustavoTBett/stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/GustavoTBett/stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/GustavoTBett/stats#gh-light-mode-only">
+<img src="https://github.com/GustavoTBett/stats/blob/master/generated/overview.svg#gh-dark-mode-only#gh-light-mode-only" />
+<img src="https://github.com/GustavoTBett/stats/blob/master/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" />
+</a>
+
+</div>
