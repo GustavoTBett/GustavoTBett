@@ -1,16 +1,13 @@
-### Hi there 👋
+-👋 Oi, me chamo Gustavo Taufembach Bett
 
-<!--
-**GustavoTBett/GustavoTBett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-👀 Eu me interesso no desenvolvimento com as novas tecnologias
 
-Here are some ideas to get you started:
+-🌱 No momento estou aprendendo o universo de Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-💞️ Procuro oportunidade em todo lugar
+
+-📫 Me chame pelo email para qualquer contato, gustavotaufembachbtt@gmail.com
+
+![](https://raw.githubusercontent.com/GustavoTBett/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+
+![](https://raw.githubusercontent.com/GustavoTBett/github-stats/master/generated/languages.svg#gh-dark-mode-only)
