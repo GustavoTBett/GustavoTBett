@@ -8,6 +8,8 @@
 
 -📫 Me chame pelo email para qualquer contato, gustavotaufembachbtt@gmail.com
 
+![](https://komarev.com/ghpvc/?username=GustavoTBett&label=VISUALIZAÇÕES+DO+PERFIL&style=for-the-badge)
+
 <div align="center">
 
 <!--
