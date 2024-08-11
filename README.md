@@ -1,5 +1,11 @@
 # 💫 About Me:
--👋 Oi, me chamo Gustavo Taufembach Bett<br><br>-👀 Eu me interesso no desenvolvimento com as novas tecnologias<br><br>-🌱 No momento estou aprendendo o universo de Java<br><br>-💞️ Procuro oportunidade em todo lugar<br><br>-📫 Me chame pelo email para qualquer contato, gustavotaufembachbtt@gmail.com
+-👋 Oi, me chamo Gustavo Taufembach Bett<br>
+<br>-👀 Eu me interesso no desenvolvimento com as novas tecnologias<br>
+<br>-🌱 No momento estou aprendendo o universo de Java<br>
+<br>-💞️ Procuro oportunidade em todo lugar<br>
+<br>-📫 Me chame pelo email para qualquer contato, gustavotaufembachbtt@gmail.com<br>
+<br>-🌐 Meu site com o aplicativo Audible em meus repositórios: http://gustavotbett.com.br/home
+
 
 
 # 💻 Tech Stack:
