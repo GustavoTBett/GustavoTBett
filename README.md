@@ -1,10 +1,25 @@
-# 💫 About Me:
--👋 Oi, me chamo Gustavo Taufembach Bett<br>
-<br>-👀 Eu me interesso no desenvolvimento com as novas tecnologias<br>
-<br>-🌱 No momento estou aprendendo o universo de Java<br>
-<br>-💞️ Procuro oportunidade em todo lugar<br>
-<br>-📫 Me chame pelo email para qualquer contato, gustavotaufembachbtt@gmail.com<br>
-<br>-🌐 Meu site com o aplicativo Audible em meus repositórios: http://gustavotbett.com.br/home
+## Sobre Mim
+
+Sou Desenvolvedor Full Stack com foco em construir aplicações escaláveis e eficientes. Tenho experiência no desenvolvimento de soluções de back-end utilizando Java e Spring Boot, além de criar interfaces intuitivas no front-end com Vaadin. Também possuo uma sólida base no desenvolvimento mobile com Flutter e no gerenciamento de bancos de dados PostgreSQL.
+
+Atualmente, na NeoCode Software, contribuo em projetos tanto de front-end quanto de back-end, garantindo a integração contínua através do desenvolvimento de APIs e automações com triggers de banco de dados. Tenho experiência também em pipelines de DevOps, utilizando Jenkins, Docker e Docker Compose para automação de fluxos de trabalho e otimização do desenvolvimento.
+
+### Habilidades Principais:
+- **Front-End**: Vaadin, WordPress
+- **Back-End**: Java, Spring Boot, Desenvolvimento de APIs
+- **Desenvolvimento Mobile**: Flutter
+- **Banco de Dados**: PostgreSQL, Liquibase
+- **DevOps**: Jenkins, Docker, Docker Compose
+- **Testes**: Unitários e de integração com JUnit, Mockito, Faker
+- **Segurança**: Token JWT, funções e triggers de banco de dados
+
+### Projetos Recentes:
+- **[Reader file enconded](https://github.com/GustavoTBett/ReaderFileEnconded)**: Este é um programa em Java que decodifica um arquivo utilizando detecção automática de codificação de caracteres, usando a biblioteca juniversalchardet. O programa recebe um arquivo codificado como entrada, detecta a codificação de caracteres, decodifica seu conteúdo e imprime o conteúdo decodificado no console.
+- **[Cryptography](https://github.com/GustavoTBett/cryptography)**: Programa que criptografa utilizando Java, Spring Boot e JPA, para aprendizado. Você cria um objeto de banco para ser salvo criptografado, e o programa te o que salvo, já descriptografado.
+- **[Audible](https://github.com/GustavoTBett/Audible)**: Um projeto pessoal para transcrição de áudio utilizando uma api do chatgpt.
+
+Sinta-se à vontade para explorar meus repositórios e entre em contato por [e-mail](mailto:gustavotaufembachbtt@gmail.com) se tiver interesse em colaborar!
+
 
 
 
