@@ -2,7 +2,7 @@
 
 Sou Desenvolvedor Full Stack com foco em construir aplicações escaláveis e eficientes. Tenho experiência no desenvolvimento de soluções de back-end utilizando Java e Spring Boot, além de criar interfaces intuitivas no front-end com Vaadin. Também possuo uma sólida base no desenvolvimento mobile com Flutter e no gerenciamento de bancos de dados PostgreSQL.
 
-Atualmente, na NeoCode Software, contribuo em projetos tanto de front-end quanto de back-end, garantindo a integração contínua através do desenvolvimento de APIs e automações com triggers de banco de dados. Tenho experiência também em pipelines de DevOps, utilizando Jenkins, Docker e Docker Compose para automação de fluxos de trabalho e otimização do desenvolvimento.
+Contribuo em projetos tanto de front-end quanto de back-end, garantindo a integração contínua através do desenvolvimento de APIs e automações com triggers de banco de dados. Tenho experiência também em pipelines de DevOps, utilizando Jenkins, Docker e Docker Compose para automação de fluxos de trabalho e otimização do desenvolvimento.
 
 ### Habilidades Principais:
 - **Front-End**: Vaadin, WordPress, Javascript, Jquery
